@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A typical university student from Chile</h3>
 
-- 🌱 I’m currently learning **Java and C**
+- 🌱 I’m currently learning **Java and C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
