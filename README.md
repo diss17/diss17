@@ -2,7 +2,7 @@
 <h3 align="center">Un estudiante universitario de Chile apasionado por la tecnología y el desarrollo de software.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJheTI4aWlydGYxMjE4NDM1YXJ5bDBlczBhbzdwd2ZpcGlneGQ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="100">
 </p>
 
 ---
@@ -12,7 +12,7 @@
 - 🌱 Actualmente estoy enfocado en aprender y dominar **Java y C++** para el desarrollo de aplicaciones robustas.
 - 🎓 Estudiante de Ingenieria Civil Informatica, siempre buscando nuevos desafíos y oportunidades para crecer como desarrollador.
 - 🔭 Estoy interesado en proyectos relacionados con inteligencia artificial, ciberseguridad y ciencias de datos.
-- 📫 ¿Quieres contactarme? Envíame un correo a mailto:danielsoto1c@gmail.com.
+- 📫 ¿Quieres contactarme? Envíame un correo a danielsoto1c@gmail.com.
 
 ---
 
