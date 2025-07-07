@@ -53,11 +53,11 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de Daniel en GitHub" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados por Daniel" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diss17&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de Daniel en GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diss17&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados por Daniel" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario-de-github&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Contador de Vistas del Perfil" />
+  <img src="https://komarev.com/ghpvc/?username=diss17&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="Contador de Vistas del Perfil" />
 </p>
