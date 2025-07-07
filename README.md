@@ -2,7 +2,7 @@
 <h3 align="center">Un estudiante universitario de Chile apasionado por la tecnología y el desarrollo de software.</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJheTI4aWlydGYxMjE4NDM1YXJ5bDBlczBhbzdwd2ZpcGlneGQ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="100">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJheTI4aWlydGYxMjE4NDM1YXJ5bDBlczBhbzdwd2ZpcGlneGQ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="300">
 </p>
 
 ---
