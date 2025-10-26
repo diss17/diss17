@@ -36,21 +36,18 @@ Automatización de procesos internos y gestión de información ⚙️
 > *(Puedes ver más en mis repositorios 👇)*
 
 ---
+---
 
 ## 🧰 Lenguajes y herramientas
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45">
 </p>
-
----
 
 ---
 
@@ -58,22 +55,11 @@ Automatización de procesos internos y gestión de información ⚙️
 
 <div align="center">
 
-<a href="https://github.com/diss17">
-  <img src="https://streak-stats.demolab.com/?user=diss17&theme=tokyonight&locale=es&hide_border=true" alt="Streak Stats" />
-</a>
-
-<a href="https://github.com/diss17">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diss17&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/diss17">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diss17&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Languages" />
-</a>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diss17&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
+<br>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diss17&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
 
 </div>
-
-
----
 
 ## 🤝 Redes de contacto
 
