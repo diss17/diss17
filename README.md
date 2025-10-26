@@ -1,58 +1,80 @@
-<h1 align="center">¡Hola! 👋 Soy Daniel</h1>
-<h3 align="center">Un estudiante universitario de Chile apasionado por la tecnología y el desarrollo de software.</h3>
+<h1 align="center">👋 ¡Hola! Soy Daniel Soto</h1>
+<h3 align="center">Estudiante de Ingeniería Civil Informática • Apasionado por la IA, Ciencia de Datos y Ciberseguridad</h3>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJheTI4aWlydGYxMjE4NDM1YXJ5bDBlczBhbzdwd2ZpcGlneGQ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJheTI4aWlydGYxMjE4NDM1YXJ5bDBlczBhbzdwd2ZpcGlneGQ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="280">
 </p>
 
 ---
 
-### 👨🏻‍💻 Sobre Mí
+## 👨🏻‍💻 Sobre mí
 
-- 🌱 Actualmente estoy enfocado en aprender y dominar **Java y C++** para el desarrollo de aplicaciones robustas.
-- 🎓 Estudiante de Ingenieria Civil Informatica, siempre buscando nuevos desafíos y oportunidades para crecer como desarrollador.
-- 🔭 Estoy interesado en proyectos relacionados con inteligencia artificial, ciberseguridad y ciencias de datos.
-- 📫 ¿Quieres contactarme? Envíame un correo a danielsoto1c@gmail.com.
+🚀 Actualmente me encuentro fortaleciendo mis habilidades en:
+
+- Desarrollo en **Java**, **C++** y **Python**
+- Modelado y diseño de **bases de datos** (PostgreSQL / MySQL)
+- Tecnología **Linux** y control de versiones con **Git**
+- Fundamentos de **inteligencia artificial** y **ciberseguridad**
+
+🎯 Objetivo profesional: Convertirme en **Data Scientist** especializado en soluciones inteligentes para problemas reales.
+
+📩 Contacto: **danielsoto1c@gmail.com**
 
 ---
 
-### 🤝 Conecta Conmigo
+## 📌 Proyectos destacados
+
+🔹 **Sistema de predicción para gestión de espacios en una biblioteca**  
+Utilizando **IA (XGBoost, RandomForest)** + análisis de datos 📈
+
+🔹 **Base de datos para una mediana empresa**  
+Modelo relacional + consultas SQL + triggers + vistas 🗃️
+
+🔹 **Aplicaciones en Java y Python**  
+Automatización de procesos internos y gestión de información ⚙️
+
+> *(Puedes ver más en mis repositorios 👇)*
+
+---
+
+## 🧰 Lenguajes y herramientas
 
 <p align="left">
-<a href="https://twitter.com/diss_17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diss_17" height="30" width="40" /></a>
-<a href="https://instagram.com/diss_15" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diss_15" height="30" width="40" /></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="45"/>
 </p>
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
+## 📊 Stats de GitHub
 
-<p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-</p>
+<div align="center">
+
+![Daniel GitHub Stats](https://github-readme-stats.vercel.app/api?username=diss17&show_icons=true&theme=radical&hide_border=true&locale=es)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diss17&layout=compact&theme=radical&hide_border=true&locale=es)
+
+</div>
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+## 🤝 Redes de contacto
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diss17&show_icons=true&locale=es&theme=dracula" alt="Estadísticas de Daniel en GitHub" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diss17&layout=compact&locale=es&theme=dracula" alt="Lenguajes más usados por Daniel" />
+  <a href="https://twitter.com/diss_17" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+  </a>
+  <a href="https://instagram.com/diss_15" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
 </p>
+
+---
+
+<p align="center"><b>⭐ Si te gusta alguno de mis proyectos, no olvides dejar una estrella :)</b></p>
+****
