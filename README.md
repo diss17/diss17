@@ -52,14 +52,26 @@ Automatización de procesos internos y gestión de información ⚙️
 
 ---
 
+---
+
 ## 📊 Stats de GitHub
 
 <div align="center">
 
-![Daniel GitHub Stats](https://github-readme-stats.vercel.app/api?username=diss17&show_icons=true&theme=radical&hide_border=true&locale=es)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diss17&layout=compact&theme=radical&hide_border=true&locale=es)
+<a href="https://github.com/diss17">
+  <img src="https://streak-stats.demolab.com/?user=diss17&theme=tokyonight&locale=es&hide_border=true" alt="Streak Stats" />
+</a>
+
+<a href="https://github.com/diss17">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diss17&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/diss17">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=diss17&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Languages" />
+</a>
 
 </div>
+
 
 ---
 
