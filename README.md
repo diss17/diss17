@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Daniel Soto</h1>
-<h3 align="center">Estudiante de Ingeniería Civil Informática • Futuro Data Scientist</h3>
+<h3 align="center">Estudiante de Ingeniería Civil Informática</h3>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJheTI4aWlydGYxMjE4NDM1YXJ5bDBlczBhbzdwd2ZpcGlneGQ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LD2ZJ0pdNmCxFikNQ5/giphy.gif" width="280">
@@ -46,19 +46,15 @@ Aquí hay una selección de proyectos en los que he trabajado. ¡Puedes ver más
 🔹 **Sistema de Predicción de Ocupación para Bibliotecas** 📈
    - Desarrollo de modelos de Machine Learning (XGBoost, RandomForest) para predecir la ocupación de espacios y optimizar la gestión de recursos.
    - **Tecnologías:** Python, Scikit-learn, Pandas, XGBoost.
-   - **[Ver Repositorio](URL_A_TU_PROYECTO_1)**
 
 🔹 **Gestor de Base de Datos para Mediana Empresa** 🗃️
    - Diseño e implementación de un modelo relacional en PostgreSQL.
    - Incluye consultas SQL optimizadas, triggers para reglas de negocio y vistas para la generación de reportes.
    - **Tecnologías:** PostgreSQL, SQL.
-   - **[Ver Repositorio](URL_A_TU_PROYECTO_2)**
 
 🔹 **Aplicaciones de Automatización y Gestión** ⚙️
    - Scripts y aplicaciones en Java y Python para automatizar procesos internos y gestionar información de manera eficiente.
    - **Tecnologías:** Java, Python.
-   - **[Ver Repositorio](URL_A_TU_PROYECTO_3)**
-
 ---
 
 ## 📊 Mis Estadísticas de GitHub
