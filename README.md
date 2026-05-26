@@ -23,7 +23,8 @@ Cuando no estoy programando o armando presupuestos para optimizar hardware, me p
   <strong>Lenguajes de Programación:</strong><br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40">
 </p>
 
 <p align="left">
@@ -37,6 +38,8 @@ Cuando no estoy programando o armando presupuestos para optimizar hardware, me p
   <strong>Herramientas y Entornos:</strong><br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" style="margin-right: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40">
 </p>
 
 ---
@@ -46,7 +49,11 @@ Cuando no estoy programando o armando presupuestos para optimizar hardware, me p
 Aquí hay una selección de los desafíos más interesantes en los que he trabajado:
 
 🔹 **Colaboración Tecnológica: ARAUCO & Microsoft Foundry** 🌲💻
-   - Participación en un proyecto aplicado de alto nivel, integrando soluciones tecnológicas para optimización y análisis de la industria.
+   - Proyecto aplicado de alto nivel en colaboración con **ARAUCO** y **Microsoft**, orientado al desarrollo de un **sistema agéntico educativo** para enseñar y guiar a usuarios en la construcción de soluciones con Inteligencia Artificial.
+   - **Desarrollo de Agentes de IA:** Diseño e implementación de agentes autónomos utilizando **Microsoft Foundry SDK** y **Google ADK (Agent Development Kit)**, integrando ambas arquitecturas de forma híbrida para combinar sus capacidades de razonamiento, orquestación y ejecución de tareas.
+   - **Arquitectura Multi-Agente:** Definición de flujos de orquestación, comunicación entre agentes y gestión de herramientas (tool-calling) siguiendo patrones de arquitectura agéntica avanzados.
+   - **Frontend:** Desarrollo de interfaz de usuario interactiva con **React** y **TypeScript**, conectada a los servicios del ecosistema **Microsoft Azure / Foundry**, permitiendo a los usuarios interactuar con los agentes de IA de forma intuitiva.
+   - **Tecnologías:** Python, TypeScript, React, Microsoft Foundry SDK, Google ADK, Azure, Arquitectura de Agentes de IA.
 
 🔹 **Implementación de Modelos de Optimización (TSP)** 🛣️
    - Modelado matemático y resolución del Problema del Agente Viajero (Traveling Salesman Problem) implementando los modelos de MTZ y GG.
