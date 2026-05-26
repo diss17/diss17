@@ -63,9 +63,11 @@ Aquí hay una selección de los desafíos más interesantes en los que he trabaj
    - Desarrollo de modelos de Machine Learning para predecir la ocupación de espacios académicos y optimizar la gestión de recursos.
    - **Tecnologías:** Python, Scikit-learn, Pandas, XGBoost, Random Forest.
 
-🔹 **Arquitectura de Software: Sistema de Gestión de Incidentes** 🚨
-   - Levantamiento de requerimientos funcionales, creación de casos de uso y diagramas UML para una plataforma integral de tracking de incidentes.
-   - **Tecnologías:** Ingeniería de Software, UML.
+🔹 **eduLogs — Plataforma Integral de Gestión de Incidentes** 🚨
+   - Desarrollo de una aplicación web completa para el tracking y gestión de incidentes, con arquitectura fullstack moderna.
+   - Responsable del **diseño e implementación del backend y la base de datos**: modelado relacional, endpoints REST y lógica de negocio, integrando **FastAPI** con **NeonDB** (PostgreSQL serverless).
+   - Levantamiento de requerimientos funcionales, diseño de casos de uso y diagramas UML como base del desarrollo.
+   - **Stack:** React, FastAPI, NeonDB (PostgreSQL), Python, Ingeniería de Software, UML.
 
 🔹 **Diseño de Base de Datos para "La Principal"** 🗃️
    - Diseño e implementación desde cero de un modelo relacional normalizado para el control de inventario y ventas de una panadería local.
