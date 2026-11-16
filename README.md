@@ -105,7 +105,7 @@ Diseño y desarrollo de un **sistema de software multiagente** para facilitar y 
 
 ### 📡 RadarOfertas
 <!-- TODO: reemplaza esta descripción y los badges por los de tu proyecto, y el enlace por la URL del repo o la demo -->
-_Descripción breve del proyecto: qué problema resuelve y cómo._
+PWA comunitaria de rebajas presenciales de corta duración en el Gran Concepción (Proyecto Informático, UdeC)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
