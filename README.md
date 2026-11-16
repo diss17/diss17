@@ -27,9 +27,7 @@ Estudiante de **último semestre de Ingeniería Civil Informática** en la Unive
 
 - 🤖 Codiseñé un **sistema multiagente con IA generativa** durante mi práctica en **ARAUCO**
 - 💬 Trabajo con **Procesamiento del Lenguaje Natural (NLP)** y LLMs aplicados a agentes
-- 🔭 Entreno modelos de **computer vision** con imágenes del **telescopio James Webb**
-- 🧮 Me apasionan la **investigación de operaciones** y la programación competitiva
-- 🎮 Fuera del código: diseño ciudades en *Cities: Skylines*, doblo origami 🦢 y observo aves 🦅
+- 🔭 Entrené modelos de **computer vision** con imágenes del **telescopio James Webb**
 
 <br clear="right"/>
 
